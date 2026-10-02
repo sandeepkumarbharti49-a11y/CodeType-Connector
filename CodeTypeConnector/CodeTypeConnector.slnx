@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="CodeTypeConnector.Client/CodeTypeConnector.Client.csproj" />
+  <Project Path="CodeTypeConnector.Connectors.Tests/CodeTypeConnector.Connectors.Tests.csproj" />
+  <Project Path="CodeTypeConnector.Connectors/CodeTypeConnector.Connectors.csproj" />
+  <Project Path="CodeTypeConnector.Core.Tests/CodeTypeConnector.Core.Tests.csproj" />
+  <Project Path="CodeTypeConnector.Core/CodeTypeConnector.Core.csproj" />
+  <Project Path="CodeTypeConnector.Permissions.Tests/CodeTypeConnector.Permissions.Tests.csproj" />
+  <Project Path="CodeTypeConnector.Permissions/CodeTypeConnector.Permissions.csproj" />
+  <Project Path="CodeTypeConnector.Protocol.Tests/CodeTypeConnector.Protocol.Tests.csproj" />
+  <Project Path="CodeTypeConnector.Protocol/CodeTypeConnector.Protocol.csproj" />
+  <Project Path="CodeTypeConnector.Security.Tests/CodeTypeConnector.Security.Tests.csproj" />
+  <Project Path="CodeTypeConnector.Security/CodeTypeConnector.Security.csproj" />
+  <Project Path="CodeTypeConnector.Server.Tests/CodeTypeConnector.Server.Tests.csproj" />
+  <Project Path="CodeTypeConnector.Server/CodeTypeConnector.Server.csproj" />
+</Solution>

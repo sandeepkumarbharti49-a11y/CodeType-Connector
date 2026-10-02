@@ -1,0 +1,6 @@
+@CodeTypeConnector.Server_HostAddress = http://localhost:5231
+
+GET {{CodeTypeConnector.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
